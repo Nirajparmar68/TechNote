@@ -2,7 +2,7 @@
 Some Computer myths and lies you were probably unaware of
 
 
-#MYTH 1
+#MYTH1
 
 YOU HAVE TO RESTART YOUR COMPUTER AFTER EVERY INSTALLATION THAT YOU CONDUCT:
 
